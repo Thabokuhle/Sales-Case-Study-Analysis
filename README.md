@@ -1,4 +1,4 @@
-📘 README — Sales Case Study (Elasticity, GP Analysis, & Promotions)
+ README — Sales Case Study (Elasticity, GP Analysis, & Promotions)
 📌 Overview
 This workbook analyzes sales performance for the period 1–7 March 2016, focusing on:
 Daily pricing
@@ -79,4 +79,4 @@ Complete elasticity analysis
 Gross profit evaluation
 Charts and visual summaries
 Business recommendations
-Case study-ready written conclusions
+Case study-ready written co
