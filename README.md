@@ -77,8 +77,7 @@ Daily % change in price.
 Daily % change in units sold.
 
 ### **Elasticity Formula**
-
-### **Elasticity = Quantity Change % ÷ Price Change %**
+Elasticity = Quantity Change % ÷ Price Change %
 
 
 Shows demand sensitivity to price.
